@@ -1,9 +1,9 @@
 {
-	"name": "pipeline1",
+	"name": "pl_set_varibale",
 	"properties": {
 		"activities": [
 			{
-				"name": "Set variable1",
+				"name": "set_sub_name",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"userProperties": [],
