@@ -1,0 +1,9 @@
+{
+	"name": "happyde-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4db2107-a7bd-47e9-8ba9-5fec4324432d",
+		"tenantId": "0086f128-a4d5-4551-ba4c-a0829dabdff3"
+	}
+}
