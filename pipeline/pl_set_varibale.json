@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "set_sub_name",
+				"name": "set_sub_name2",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"userProperties": [],
